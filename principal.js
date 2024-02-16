@@ -1,3 +1,5 @@
+setInterval(trocarBanner, 1000);
+
 var banners = ["O melhores do Brasil", "Qualidade e preço baixo"];
 var bannerAtual = 0;
 
