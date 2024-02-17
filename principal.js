@@ -7,3 +7,5 @@ function trocarBanner(){
     bannerAtual = (bannerAtual + 1 ) % 2;
     document.querySelector('h2#mensagem').textContent = banners[bannerAtual]
 }
+s
+
